@@ -34,20 +34,20 @@ paginate: 5
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  behance: # https://www.behance.net/<username>
+  behance: 
   dribbble:
-  email:
+  email: obs0811@gmail.com
   facebook:
   flickr:
   github: byungsoo-oh
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/byungsoo-oh-800351140/
   pinterest:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
-  twitter: jekyllrb
+  twitter: 
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in footer
