@@ -2,7 +2,7 @@
 layout: post
 title: 영화 노매드랜드
 tags: [movie]
-comments: true
+comments: false
 ---
 
 ![Nomadland]({{ site.baseurl }}/images/movie/nomadland/nomadland3.jpeg){: width="40%" height="40%"}
