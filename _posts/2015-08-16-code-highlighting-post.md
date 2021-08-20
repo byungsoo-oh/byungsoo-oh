@@ -2,7 +2,7 @@
 layout: post
 title: "Syntax Highlighting Post"
 tags: [sample post, code, highlighting]
-comments: false
+comments: true
 ---
 
 Demo post displaying the various ways of highlighting code in Markdown.
