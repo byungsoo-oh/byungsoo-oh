@@ -27,7 +27,7 @@ comments: false
 #### 1.2. 인용 수 관련
 - 학회에 대한 `H5-index`: 지난 **5년** 동안 해당 학회에서 publish 된 논문 중 **최소 n 편이 n번 이상 인용**된 n의 최대값을 `H5-index` 라고 한다. 예를 들면, 어떤 학회에서 지난 5년간 논문 5편이 publish 되었는데 인용 횟수가 각각 [5, 3, 2, 0, 0]이라면 해당 학회의 `H5-index`는 2이다. 인용이 3번 이상된 것은 2편밖에 안되므로 3이 될 수 없다. 
     > H-index 개념은 researcher 개인의 연구 성과를 표현하는 지표로도 널리 활용되고 있다. 즉, 어떤 연구자가 publish 한 논문 중 최소 n 편이 n번 이상 인용된 n의 최대값을 해당 연구자의 h-index라고 한다. 
-- Impact factor (journal): Journal의 실적을 표현하는 지표로 지난 2년 동안 해당 journal에 게재된 논문의 평균 인용 횟수 (전체 인용 횟수 / 전체 논문 갯수)
+- Impact factor (저널): 저널의 실적을 표현하는 지표로 지난 2년 동안 해당 저널에 게재된 논문의 평균 인용 횟수 (전체 인용 횟수 / 전체 논문 갯수)를 의미한다.
 
 #### 1.3. (참고) 몇 해 동안 이어져 온 학회인지
 - CS 분야는 역사가 상대적으로 짧은 편이지만 그 가운데에서도 오랜 기간 지속되는 학회들은 어느 정도 신뢰성을 보장한다고 할 수 있다. 
@@ -43,7 +43,7 @@ comments: false
 - [Google Scholar](https://scholar.google.com/)
 - [DBLP](https://dblp.org/): 개인적으로 많이 사용하는 검색 서비스이다. CS 분야 학회 / 저널에 특화되어 있고 publication provider인 IEEE / ACM 등의 공식적인 논문 업데이트와의 싱크가 정확하고 빠른 편이다. 
 - [ResearchGate](https://www.researchgate.net/)
-- 이 외에도 [Semantic Scholar](https://www.semanticscholar.org/)
+- [Semantic Scholar](https://www.semanticscholar.org/)
 
 논문들이 공식적으로 publish 되는 공간으로는 대표적으로 다음과 같은 웹사이트들이 있다. 
 - [IEEE Explorer](https://ieeexplore.ieee.org/Xplore/home.jsp)
