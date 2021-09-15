@@ -52,7 +52,7 @@ comments: false
 
 또한, [arXiv](https://arxiv.org/)와 같은 open-access 서비스도 많이 활용된다. 특정 학회나 저널에 accept 되지 않은 논문도 등록할 수 있고 누구나 무료로 등록된 논문을 읽을 수 있다. 공식적으로 리뷰 과정을 거쳐서 publish 하기 전에 pre-print 형태로 arXiv에 올리는 경우가 많아지고 있다. 
 
-### (참고) 논문 제출할 venue 찾기
+### (참고) 논문 제출 일정 확인하기
 논문 제출 일정을 확인할 수 있는 사이트
 - [WikiCFP](http://www.wikicfp.com/cfp/call?conference=computer%20science)
 - [Conference Partner (Myhuiban)](https://www.myhuiban.com/)
