@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 컴퓨터공학 분야 학회
+title: 컴퓨터공학 분야 학회 및 논문
 tags: [research, conference]
 comments: false
 ---
 
-컴퓨터공학 (CS) 분야에서는 국제학회를 통해 주요한 연구 성과가 공유된다. 변화의 주기가 짧은 CS 분야에서는 매년 (혹은 2년에 한번씩) 학회를 통해 연구자들이 한자리에 모여 최신 연구 성과를 공유하면서 함께 성장하는 문화가 잘 갖춰진 것 같다. 포스터나 데모와 같은 extended abstract 형태의 연구 뿐만 아니라 전문가들의 peer review를 통해 선별된 full paper (double column 8 ~ 12장 정도 분량)에 대한 발표 세션이 메인 트랙을 구성한다. 
+컴퓨터공학 (CS) 분야에서는 국제학회를 통해 주요한 연구 성과가 공유된다. 변화의 주기가 짧은 CS 분야에서는 매년 (혹은 2년에 한번씩) 학회를 통해 연구자들이 한자리에 모여 최신 연구 성과를 공유하면서 함께 성장하는 문화가 잘 갖춰진 것 같다. 포스터나 데모와 같은 extended abstract 형태의 연구 뿐만 아니라 분야별 전문가들의 peer review를 통해 선별된 full paper (double column 8 ~ 12장 정도 분량)에 대한 발표 세션이 메인 트랙을 구성한다. 
 
 연구 분야 별로 다양한 학회가 있다. 좋은 연구가 많이 게재되는 학회들이 있고 상대적으로 그렇지 않은 학회들도 있다. 그렇기 때문에 분야 별로 어떤 학회에서 대체로 좋은 (많이 읽히고 영향력 있는) 연구가 나오는지에 대해 알고 있으면 논문을 찾아볼 때 도움이 된다. 이 글을 통해 이러한 정보를 간단하게 정리해 보려고 한다. 
 
@@ -22,7 +22,7 @@ comments: false
 - [Research.com (Formerly, Guide2Research)](https://research.com/conference-rankings/computer-science/2021)
 - [Microsoft Academic](https://academic.microsoft.com/conferences/41008148)
 
-이와 같은 ranking 정보를 통해 관심 분야의 top-tier 학회 목록을 파악하는 것도 연구를 처음 시작하는 입장에서는 큰 도움이 되는 것 같다. 
+이와 같은 ranking 정보를 통해 관심 분야의 top-tier 학회 목록을 파악하는 것은 연구를 처음 시작할 때 많은 도움이 된다. 
 
 #### 1.2. 인용 수 관련
 - 학회에 대한 `H5-index`: 지난 **5년** 동안 해당 학회에서 publish 된 논문 중 **최소 n 편이 n번 이상 인용**된 n의 최대값을 `H5-index` 라고 한다. 예를 들면, 어떤 학회에서 지난 5년간 논문 5편이 publish 되었는데 인용 횟수가 각각 [5, 3, 2, 0, 0]이라면 해당 학회의 `H5-index`는 2이다. 인용이 3번 이상된 것은 2편밖에 안되므로 3이 될 수 없다. 
@@ -52,7 +52,7 @@ comments: false
 
 또한, [arXiv](https://arxiv.org/)와 같은 open-access 서비스도 많이 활용된다. 특정 학회나 저널에 accept 되지 않은 논문도 등록할 수 있고 누구나 무료로 등록된 논문을 읽을 수 있다. 공식적으로 리뷰 과정을 거쳐서 publish 하기 전에 pre-print 형태로 arXiv에 올리는 경우가 많아지고 있다. 
 
-### (참고) 논문 제출 일정 확인하기
+### 3. 논문 제출 일정 확인하기
 논문 제출 일정을 확인할 수 있는 사이트
 - [WikiCFP](http://www.wikicfp.com/cfp/call?conference=computer%20science)
 - [Conference Partner (Myhuiban)](https://www.myhuiban.com/)
@@ -61,3 +61,6 @@ comments: false
 특정 분야에 한정하여 리스트 정리한 사이트
 - [Systems](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html)
 - [AI](https://jackietseng.github.io/conference_call_for_paper/conferences.html)
+
+### 4. 정리
+이번 포스트를 통해서 CS 분야의 학회를 평가하는 기준이 될 수 있는 몇가지 정보와 논문을 검색하기 위한 방법들을 정리해 보았다. CS 분야의 논문 읽기를 시작해 보고 싶은데 어디서 무엇을 봐야할지 막막한 분들에게 도움이 되었으면 좋겠다. 
