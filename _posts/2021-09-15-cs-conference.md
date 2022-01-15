@@ -20,7 +20,7 @@ comments: false
 다음 두 사이트도 많이 활용된다. 
 
 - [Research.com (Formerly, Guide2Research)](https://research.com/conference-rankings/computer-science/2021)
-- [Microsoft Academic](https://academic.microsoft.com/conferences/41008148)
+- [AMiner](https://www.aminer.org/ranks/conf)
 
 이와 같은 ranking 정보를 통해 관심 분야의 top-tier 학회 목록을 파악하는 것은 연구를 처음 시작할 때 많은 도움이 된다. 
 
@@ -63,4 +63,4 @@ comments: false
 - [AI](https://jackietseng.github.io/conference_call_for_paper/conferences.html)
 
 ### 4. 정리
-이번 포스트를 통해서 CS 분야의 학회를 평가하는 기준이 될 수 있는 몇가지 정보와 논문을 검색하기 위한 방법들을 정리해 보았다. CS 분야의 논문 읽기를 시작해 보고 싶은데 어디서 무엇을 봐야할지 막막한 분들에게 도움이 되었으면 좋겠다. 
+CS 분야의 학회를 평가하는 기준이 될 수 있는 몇가지 정보와 논문을 검색하기 위한 방법들을 정리해 보았다. CS 분야의 논문 읽기를 시작해 보고 싶은데 어디서 무엇을 봐야할지 잘 모르는 분들에게 도움이 되었으면 좋겠다. 
