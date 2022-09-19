@@ -87,7 +87,7 @@ CS conferences in systems, AI, data management (DB), and network
 ### 1.4 Data pipeline fairness & correctness
 - [CIDR'21] Lightweight Inspection of Data Preprocessing in Native Machine Learning Pipelines
 
-### 1.5 Data Labeling Automation
+### 1.5 Data labeling automation
 - [VLDB'18] Snorkel: Rapid Training Data Creation with Weak Supervision
 
 ## 2. Training System
