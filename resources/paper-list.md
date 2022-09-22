@@ -7,7 +7,7 @@ comments: false
 
 # Paper List of Systems for Machine Learning
 
-## Venues:
+## Venues
 CS conferences in systems, AI, data management (DB), and network
 - Systems: SOSP, OSDI, ATC, EuroSys, FAST, ISCA, ASPLOS, HPCA
 - AI: NeurIPS, ICML, ICLR
