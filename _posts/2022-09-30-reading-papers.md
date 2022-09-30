@@ -50,4 +50,4 @@ comments: false
 - 3단계: 논문을 비판적으로 virtually re-implement 해보기
 
 ## Reference
-S. Keshav, "How to Read a Paper" [http://ccr.sigcomm.org/online/files/p83-keshavA.pdf]()
+S. Keshav, "How to Read a Paper" [http://ccr.sigcomm.org/online/files/p83-keshavA.pdf](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
