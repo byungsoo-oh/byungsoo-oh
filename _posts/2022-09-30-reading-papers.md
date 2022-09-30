@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [번역] How to Read a Paper
+title: How to Read a Paper (번역 및 요약)
 tags: [research]
 comments: false
 ---
