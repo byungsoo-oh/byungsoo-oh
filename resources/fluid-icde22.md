@@ -12,7 +12,7 @@ Keywords: `DL on cloud-native infra`, `fetch stall`, `auto-tuned distributed cac
 ### Background & Problem
 - DL 학습 시 자원을 효율적으로 활용하기 위해 k8s 등을 기반으로 한 cloud-native infrastructure 활용하는 것이 일반화되고 있음
 - Cloud-native infrastructure에서 compute resource를 보다 효과적으로 scaling 하기 위해 storage를 **decouple** 하는 경우가 일반적임
-- **문제**: Storage service가 decouple 된 *cloud 환경*에서 **data fetch 작업이 학습의 bottleneck** 되는 경우 증가하고 있음 (fetch stall)
+- **문제**: Storage service가 decouple 된 *cloud 환경에서* **data fetch 작업이 학습의 bottleneck** 되는 경우 증가하고 있음 (fetch stall)
 
 
 ### Limits of Existing Approaches
