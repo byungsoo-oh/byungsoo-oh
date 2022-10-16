@@ -46,7 +46,7 @@ CS conferences in systems, AI, data management (DB), and network
 - [ISCA'22] Understanding Data Storage and Ingestion for Large-Scale Deep Recommendation Model Training
   - `stall analysis` `prep stall` `fetch stall` `caching` 
 - [SIGMOD'22] Where Is My Training Bottleneck? Hidden Trade-Offs in Deep Learning Preprocessing Pipelines
-  - `stall analysis` `prep stall` `fetch stall` `caching` 
+  - `stall analysis` `prep stall` `fetch stall` `caching` `offline-online prep` 
 - [VLDB'21] Analyzing and Mitigating Data Stalls in DNN Training
   - `stall analysis` `prep stall` `fetch stall` `caching` 
 - [VLDB'21] tf.data: A Machine Learning Data Processing Framework
