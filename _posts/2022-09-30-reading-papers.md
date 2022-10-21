@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Read a Paper (번역 및 요약)
+title: How to Read a Paper (S. Keshav)
 tags: [research]
 comments: false
 ---
