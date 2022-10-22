@@ -8,34 +8,44 @@ comments: false
 # Paper List of Systems for Machine Learning
 
 ## Venues
-CS conferences in systems, AI, data management (DB), and network
-- Systems: SOSP, OSDI, ATC, EuroSys, FAST, ISCA, ASPLOS, HPCA
+CS conferences in systems, AI, data management (DB), and networking
+- Systems / Computer architecture: SOSP, OSDI, ATC, EuroSys, FAST, ISCA, ASPLOS, HPCA
 - AI: NeurIPS, ICML, ICLR
 - Data management: VLDB, SIGMOD, ICDE
-- Network: NSDI, SIGCOMM
+- Networking: NSDI, SIGCOMM
 
 ## Category
-- Data Processing
-- Training System
-- Inference System
-- ML Infrastructure
+1. Data Processing
+2. Training System
+3. Inference System
+4. ML Infrastructure
 
 ## Keywords
-- `stall analysis`
-- `prep stall`
-- `fetch stall`
-- `caching`
-- `offloading`
-- `auto-scaling`
-- `data labeling`
-- `data format`
-- `DLRM`
-- `GNN`
-- `offline-online prep`
-- `scehduling`
-- `parallelism`
-- `mlops`
-- `DAG optimization`
+1. Data Processing
+   - `stall analysis`
+   - `prep stall`
+   - `fetch stall`
+   - `caching`
+   - `offloading`
+   - `auto-scaling`
+   - `data labeling`
+   - `data format`
+   - `DLRM`
+   - `GNN`
+   - `offline-online prep`
+   - `scehduling`
+   - `parallelism`
+   - `mlops`
+   - `DAG optimization`
+
+2. Training System
+   - `DL scheduling`
+   - `elastic training`
+   - `gpu sharing`
+   - `gpu memory wall`
+   - `parallelism`, `distributed DL`
+   - `model checkpointing`
+
 
 ## 1. Data Processing
 
@@ -91,7 +101,67 @@ CS conferences in systems, AI, data management (DB), and network
 - [VLDB'18] Snorkel: Rapid Training Data Creation with Weak Supervision
 
 ## 2. Training System
-TBD
+### 2.1 DL scheduling
+- [EuroSys'18] Optimus: an efficient dynamic resource scheduler for deep learning clusters
+- [OSDI'18] Gandiva: Introspective Cluster Scheduling for Deep Learning
+
+- [NSDI'19] Tiresias: A GPU Cluster Manager for Distributed Deep Learning
+- [ATC'19] Analysis of Large-Scale Multi-Tenant GPU Clusters for DNN Training Workloads (*Philly*)
+
+- [EuroSys'20] Balancing efficiency and fairness in heterogeneous GPU clusters for deep learning (*GandivaFair*)
+- [NSDI'20] Themis: Fair and Efficient GPU Cluster Scheduling
+- [OSDI'20] HiveD: Sharing a GPU Cluster for Deep Learning with Guarantees
+- [OSDI'20] Heterogeneity-Aware Cluster Scheduling Policies for Deep Learning Workloads (*Gavel*)
+- [EuroSys'20] AlloX: Compute Allocation in Hybrid Clusters
+- [MLSys'20] Resource Elasticity in Distributed Deep Learning
+  - `elastic training`
+
+- [MLSys'21] Wavelet: Efficient DNN Training with Tick-Tock Scheduling
+- [OSDI'21] Privacy Budget Scheduling (*DPF*)
+- [NSDI'21] Elastic Resource Sharing for Distributed Deep Learning (*AFS*)
+  - `elastic training`
+- [OSDI'21] Pollux: Co-adaptive Cluster Scheduling for Goodput-Optimized Deep Learning
+  - `elastic training`
+
+- [NSDI'22] MLaaS in the wild: workload analysis and scheduling in large-scale heterogeneous GPU clusters (*PAI*)
+- [OSDI'22] Looking Beyond GPUs for DNN Scheduling on Multi-Tenant Clusters (*Synergy*)
+  - `elastic training`
+- [SIGCOMM'22] Multi-resource interleaving for deep learning training (*Muri*)
+
+### 2.2 GPU sharing
+- [MLSys'20] Salus: Fine-Grained GPU Sharing Primitives for Deep Learning Applications
+- [OSDI'20] AntMan: Dynamic Scaling on GPU Clusters for Deep Learning
+- [OSDI'20] PipeSwitch: Fast Pipelined Context Switching for Deep Learning Applications
+- [ATC'21] Zico: Efficient GPU Memory Sharing for Concurrent DNN Training
+
+### 2.3 GPU memory wall
+- [ASPLOS'20] SwapAdvisor: Pushing Deep Learning Beyond the GPU Memory Limit via Smart Swapping
+- [SC'20] ZeRO: memory optimizations toward training trillion parameter models
+- [VLDB'22] Harmony: Overcoming the Hurdles of GPU Memory Capacity to Train Massive DNN Models on Commodity Servers
+
+### 2.4 Parallelism / Distributed training
+- [ICML'18] Exploring Hidden Dimensions in Parallelizing Convolutional Neural Networks
+- [SOSP'19] PipeDream: Generalized Pipeline Parallelism for DNN Training
+- [MLSys'19] Beyond data and model parallelism for deep neural networks
+- [MLSys'19] PyTorch-BigGraph: A Large-scale Graph Embedding System
+- [SOSP'19] A Generic Communication Scheduler for Distributed DNN Training Acceleration
+- [NeurIPS'19] Mesh-TensorFlow: Deep Learning for Supercomputers
+- [OSDI'20] A Unified Architecture for Accelerating Distributed DNN Training in Heterogeneous GPU/CPU Clusters (*BytePS*)
+- [VLDB'21] Distributed Deep Learning on Data Systems: A Comparative Analysis of Approaches
+- [HPDC'22] Hare: Exploiting Inter-job and Intra-job Parallelism of Distributed Machine Learning on Heterogeneous GPUs
+- [OSDI'22] Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning
+- [NSDI'22] Accelerating Collective Communication in Data Parallel Training across Deep Learning Frameworks
+- *[Survey Paper][ACM CSUR ('19)] Scalable Deep Learning on Distributed Infrastructures: Challenges, Techniques, and Tools*
+
+### 2.5 DL job failures
+- [ICSE'20] An Empirical Study on Program Failures of Deep Learning Jobs
+- [ATC'22] Sibylla: To Retry or Not To Retry on Deep Learning Job Failure
+
+### 2.6 GPU memory usage estimate
+- [ESEC/FSE'20] Estimating GPU memory consumption of deep learning models
+
+### 2.7 Model checkpointing
+- [FAST'21] CheckFreq: Frequent, Fine-Grained DNN Checkpointing
 
 ## 3. Inference System
 TBD
