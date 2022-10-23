@@ -68,6 +68,8 @@ CS conferences in systems, AI, data management (DB), and networking
   - `prep stall` `offloading` `auto-scaling` `caching`
 - [OSDI'22] Looking Beyond GPUs for DNN Scheduling on Multi-Tenant Clusters
   - `scheduling` `prep stall` `fetch stall`
+- [ICPP'19] DLBooster: Boosting End-to-End Deep Learning Workflows with Offloading Data Preprocessing Pipelines
+  - `prep stall` `fpga`
 
 
 #### 1.1.3 Fetch stalls (I/O)
