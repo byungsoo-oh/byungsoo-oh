@@ -19,7 +19,7 @@ comments: false
 
 다음 두 사이트도 많이 활용된다. 
 
-- [Research.com (Formerly, Guide2Research)](https://research.com/conference-rankings/computer-science/2021)
+- [Research.com (Formerly, Guide2Research)](https://research.com/conference-rankings/computer-science/2021) (academia에서 일반적으로 받아들여지는 기준과 다소 차이를 보이는 랭킹들도 있음)
 - [AMiner](https://www.aminer.org/ranks/conf)
 
 이와 같은 ranking 정보를 통해 관심 분야의 top-tier 학회 목록을 파악하는 것은 연구를 처음 시작할 때 많은 도움이 된다. 
