@@ -22,9 +22,10 @@ comments: false
 이와 같은 ranking 정보를 통해 관심 분야의 top-tier 학회 목록을 파악하는 것은 연구를 처음 시작할 때 많은 도움이 된다. 
 따라서 분야별 top-tier 학회 (최우수 / 우수) 리스트를 따로 정리해 놓은 자료를 활용하는 것도 좋다. 
 - [Top Publication Venues in Computer Science (Cornell)](https://www.cs.cornell.edu/andru/csconf.html)
+- [KAIST 전산학부 박사 졸업가능 컨퍼런스 리스트](https://cs.kaist.ac.kr/userfiles/file/kaist_soc_conflist.xlsx)
 - [서울대 컴퓨터공학과 Top Conference List](https://cse.snu.ac.kr/node/29041)
 - [POSTECH 졸업 인정 학술지 및 학술대회 목록](https://cse.postech.ac.kr/%EB%8C%80%ED%95%99%EC%9B%90-%ED%95%99%EC%9C%84%EC%88%98%EC%97%AC-%EC%A3%BC%EC%9A%94%EC%9D%BC%EC%A0%95-%EB%B0%8F-%EC%A1%B8%EC%97%85%EC%9D%B8%EC%A0%95-%ED%95%99%EC%88%A0%EC%A7%80-%EB%B0%8F-%ED%95%99/)
-- [한국정보과학회 우수 학술대회 목록](https://www.kiise.or.kr/TopConferences/data/SW%EB%B6%84%EC%95%BC%EC%9A%B0%EC%88%98%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C%EB%AA%A9%EB%A1%9D_2020.pdf)
+- [한국정보과학회 우수 학술대회 목록](https://www.kiise.or.kr/academy/main/getContent.fa?content_no=74&MENU_ID=130300)
 - [CCF Recommended List of International Conferences](https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml)
 
 #### 1.2. 인용 수 관련
