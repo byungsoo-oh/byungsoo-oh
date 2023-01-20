@@ -14,15 +14,18 @@ comments: false
 
 #### 1.1. Ranking
 다양한 기관에서 학회의 다양한 실적을 바탕으로 ranking을 산정하여 제공한다. 이와 같은 ranking은 절대적이라 할 수는 없지만 분야별 top-tier 학회를 구분하기 위한 데이터로는 적합하다고 할 수 있다. 
-- [Google Scholar Top Publications](https://scholar.google.co.uk/citations?view_op=top_venues&hl=en): CS 뿐만 아니라 여러 도메인에 걸쳐 세부 연구 분야별 top publication venue 리스트를 제공. 학회 뿐만 아니라 저널도 포함
 - [CORE](http://portal.core.edu.au/conf-ranks/): 호주 정부에서 운영하는 Computing Research & Education 그룹에서 관리하는 CS conference ranking 데이터베이스로 A* (7%), A (19%), B (29%), C (26%), others (17%)로 등급 구분한다. CS 학회 평가 공신력이 높다. 
-
-다음 두 사이트도 많이 활용된다. 
-
+- [Google Scholar Top Publications](https://scholar.google.co.uk/citations?view_op=top_venues&hl=en): CS 뿐만 아니라 여러 도메인에 걸쳐 세부 연구 분야별 top publication venue 리스트를 제공. 학회 뿐만 아니라 저널도 포함
 - [Research.com (Formerly, Guide2Research)](https://research.com/conference-rankings/computer-science/2021) (academia에서 일반적으로 받아들여지는 기준과 다소 차이를 보이는 랭킹들도 있음)
 - [AMiner](https://www.aminer.org/ranks/conf)
 
 이와 같은 ranking 정보를 통해 관심 분야의 top-tier 학회 목록을 파악하는 것은 연구를 처음 시작할 때 많은 도움이 된다. 
+따라서 분야별 top-tier 학회 (최우수 / 우수) 리스트를 따로 정리해 놓은 자료를 활용하는 것도 좋다. 
+- [Top Publication Venues in Computer Science (Cornell)](https://www.cs.cornell.edu/andru/csconf.html)
+- [서울대 컴퓨터공학과 Top Conference List](https://cse.snu.ac.kr/node/29041)
+- [POSTECH 졸업 인정 학술지 및 학술대회 목록](https://cse.postech.ac.kr/%EB%8C%80%ED%95%99%EC%9B%90-%ED%95%99%EC%9C%84%EC%88%98%EC%97%AC-%EC%A3%BC%EC%9A%94%EC%9D%BC%EC%A0%95-%EB%B0%8F-%EC%A1%B8%EC%97%85%EC%9D%B8%EC%A0%95-%ED%95%99%EC%88%A0%EC%A7%80-%EB%B0%8F-%ED%95%99/)
+- [한국정보과학회 우수 학술대회 목록](https://www.kiise.or.kr/TopConferences/data/SW%EB%B6%84%EC%95%BC%EC%9A%B0%EC%88%98%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C%EB%AA%A9%EB%A1%9D_2020.pdf)
+- [CCF Recommended List of International Conferences](https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml)
 
 #### 1.2. 인용 수 관련
 - 학회에 대한 `H5-index`: 지난 **5년** 동안 해당 학회에서 publish 된 논문 중 **최소 n 편이 n번 이상 인용**된 n의 최대값을 `H5-index` 라고 한다. 예를 들면, 어떤 학회에서 지난 5년간 논문 5편이 publish 되었는데 인용 횟수가 각각 [5, 3, 2, 0, 0]이라면 해당 학회의 `H5-index`는 2이다. 인용이 3번 이상된 것은 2편밖에 안되므로 3이 될 수 없다. 
