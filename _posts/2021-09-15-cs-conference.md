@@ -31,9 +31,9 @@ comments: false
 
 #### 1.3. (참고) 몇 해 동안 이어져 온 학회인지
 - CS 분야는 역사가 상대적으로 짧은 편이지만 그 가운데에서도 오랜 기간 지속되는 학회들은 어느 정도 신뢰성을 보장한다고 할 수 있다. 
-  - e.g. VLDB, SIGMOD: 1975~ / ISCA: 1973~ / NeurIPS: 1987~ / INFOCOM: 1979~ / CHI: 1983~ 등은 각자의 분야 (DB / 컴퓨터구조 / AI / Network / HCI)에서 수십년에 걸쳐 성공적으로 운영되고 영향력 있는 논문이 발표되는 top-tier 학회이다. 
+  - e.g., SOSP: 1967~ (computer systems) / ISCA: 1973~ (컴퓨터 구조) / VLDB, SIGMOD: 1975~ (DB) / NeurIPS: 1987~ (AI) / INFOCOM: 1979~ (Network) / CHI: 1983~ (HCI) 등은 각자의 분야에서 수십년에 걸쳐 성공적으로 운영되고 영향력 있는 논문이 발표되는 top-tier 학회이다. 
 - 전통적인 computing 분야와 차별화되는 새로운 패러다임이 등장하면 이에 맞춰 새로운 학회들이 생겨나는데, 해당 분야가 학계 / 산업에서 많은 관심을 끌고 단기간에 주목할만한 성과가 나타나면 이와 같이 오래 되지 않은 학회들도 높은 명성을 얻게 되는 경우도 있다. 
-  - e.g. Cloud computing 분야의 ACM Symposium on Cloud Computing (SoCC)와 같은 학회는 2010년에 시작됐지만 분야의 빠른 성장과 함께 짧은 시간에 주목 받는 학회가 되었다. 
+  - e.g., Cloud computing 분야의 ACM Symposium on Cloud Computing (SoCC)와 같은 학회는 2010년에 시작됐지만 분야의 빠른 성장과 함께 짧은 시간에 주목 받는 학회가 되었다. 
 
 #### 1.4. (참고) Acceptance rate
 학회에 submit 된 논문 수 대비 accept 된 논문 비율도 참고해볼 수 있다. 
