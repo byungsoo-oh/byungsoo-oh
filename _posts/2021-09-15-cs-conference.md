@@ -65,7 +65,7 @@ comments: false
 - [ACM upcoming submission deadline](https://www.acm.org/conferences/upcoming-submission-deadlines)
 
 특정 분야에 한정하여 리스트 정리한 사이트
-- [Systems](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html)
+- [Systems](https://dants.github.io/index_sysvenues_deadline.html)
 - [AI](https://jackietseng.github.io/conference_call_for_paper/conferences.html)
 
 ### 4. 정리
