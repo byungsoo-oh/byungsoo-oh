@@ -35,7 +35,7 @@ comments: false
 
 #### 1.3. (참고) 몇 해 동안 이어져 온 학회인지
 - CS 분야는 역사가 상대적으로 짧은 편이지만 그 가운데에서도 오랜 기간 지속되는 학회들은 어느 정도 신뢰성을 보장한다고 할 수 있다. 
-  - 예: SOSP: 1967~ (computer systems) / ISCA: 1973~ (컴퓨터 구조) / VLDB, SIGMOD: 1975~ (DB) / NeurIPS: 1987~ (AI) / INFOCOM: 1979~ (Network) / CHI: 1983~ (HCI) 등은 각자의 분야에서 수십년에 걸쳐 성공적으로 운영되고 영향력 있는 논문이 발표되는 top-tier 학회이다. 
+  - 예: SOSP: 1967~ (computer systems) / ISCA: 1973~ (컴퓨터 구조) / VLDB, SIGMOD: 1975~ (DB) / NeurIPS: 1987~ (AI) / CHI: 1983~ (HCI) 등은 각자의 분야에서 수십년에 걸쳐 성공적으로 운영되고 영향력 있는 논문이 발표되는 탑티어 학회이다. 
 - 전통적인 computing 분야와 차별화되는 새로운 패러다임이 등장하면 이에 맞춰 새로운 학회들이 생겨나는데, 해당 분야가 학계 / 산업에서 많은 관심을 끌고 단기간에 주목할만한 성과가 나타나면 이와 같이 오래 되지 않은 학회들도 높은 명성을 얻게 되는 경우도 있다. 
   - 예 1: [MLSys] Conference on Machine Learning and Systems (MLSys)는 Systems for maching learning / machine learning for systems 등 머신러닝과 시스템의 intersection에 대한 연구가 큰 주목을 받으면서 생긴 학회이다 (2018년에 [SysML](https://mlsys.org/Conferences/2018/) 이름으로 시작되어서 2020년부터 현재 이름으로 불림). 이제 (2023년 기준) 6번째 학회를 개최하는 비교적 신생 학회이지만 세계적으로 주목받는 교수진이 committee로 참여하고 좋은 연구들이 다수 발표되면서 단기간에 주목 받는 학회가 되었다. 
   - 예 2: [SoCC] Cloud computing 분야의 ACM Symposium on Cloud Computing (SoCC)와 같은 학회는 2010년에 시작됐지만 분야의 빠른 성장과 함께 짧은 시간에 주목 받는 학회가 되었다. 
