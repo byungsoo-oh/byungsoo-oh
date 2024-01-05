@@ -9,7 +9,7 @@ Paper list for broad topics in machine learning systems
 
 > NOTE: Survey papers are annotated with [Survey 🔍] prefix.
 
-Also updated in [https://github.com/byungsoo-oh/mlsys-papers](https://github.com/byungsoo-oh/mlsys-papers).
+Also updated in [https://github.com/byungsoo-oh/ml-systems-papers](https://github.com/byungsoo-oh/ml-systems-papers).
 
 <!-- TOC -->
 
