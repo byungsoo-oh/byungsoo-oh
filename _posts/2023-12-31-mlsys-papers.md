@@ -5,7 +5,7 @@ tags: [research]
 comments: false
 ---
 
-Paper list for broad topics in machine learning systems
+Paper list for broad topics in machine learning systems.
 
 Also updated in [https://github.com/byungsoo-oh/ml-systems-papers](https://github.com/byungsoo-oh/ml-systems-papers).
 
