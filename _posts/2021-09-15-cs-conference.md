@@ -15,7 +15,7 @@ comments: false
 #### 1.1. Ranking
 다양한 기관에서 학회의 다양한 실적을 바탕으로 ranking을 산정하여 제공한다. 이와 같은 ranking은 절대적이라 할 수는 없지만 분야별 top-tier 학회를 구분하기 위한 데이터로는 적합하다고 할 수 있다. 
 - [CORE](http://portal.core.edu.au/conf-ranks/): 호주 정부에서 운영하는 Computing Research & Education 그룹에서 관리하는 CS conference ranking 데이터베이스로 A* (7%), A (19%), B (29%), C (26%), others (17%)로 등급 구분한다. CS 학회 평가 공신력이 높다.
-- [CSRankings](https://csrankings.org/): CS 세부 분야별 학교 별 랭킹을 확인할 수 있는 사이트인데 분야별 탑티어 학회 논문 publish 개수를 기준으로 통계를 낸다. 매우 선별적으로 각 분야별로 소수의 학회만을 선정해 놓은 것이 특징이다. (리스트 확인 방법: 링크의 페이지에서 분야 별로 왼쪽의 화살표 버튼을 클릭하면 학회 리스트를 확인할 수 있다. 탑티어 학회도 세분화해서 티어를 구분해 놓은 것으로 보인다. 예를 들어, Operating Systems 분야의 경우 OSDI, SOSP가 리스트의 가장 위에 위치해 있고, 그 아래로 EuroSys, FAST, USENIX ATC가 위치하도록 정리해 놓았다.)
+- [CSRankings](https://csrankings.org/): CS 세부 분야에 대한 학교 별 랭킹을 확인할 수 있는 사이트인데 분야별 탑티어 학회 논문 publish 개수를 기준으로 통계를 낸다. 매우 선별적으로 각 분야별로 소수의 학회만을 선정해 놓은 것이 특징이다. (리스트 확인 방법: 링크의 페이지에서 분야 별로 왼쪽의 화살표 버튼을 클릭하면 학회 리스트를 확인할 수 있다. 탑티어 학회도 세분화해서 티어를 구분해 놓은 것으로 보인다. 예를 들어, Operating Systems 분야의 경우 OSDI, SOSP가 리스트의 가장 위에 위치해 있고, 그 아래로 EuroSys, FAST, USENIX ATC가 위치하도록 정리되어 있다.)
 - [Google Scholar Top Publications](https://scholar.google.co.uk/citations?view_op=top_venues&hl=en): CS 뿐만 아니라 여러 도메인에 걸쳐 세부 연구 분야별 top publication venue 리스트를 제공. 학회 뿐만 아니라 저널도 포함
 - [Research.com (Formerly, Guide2Research)](https://research.com/conference-rankings/computer-science/2021) ([개인적 의견] 일반적으로 받아들여지는 기준과 다소 차이를 보이는 랭킹들도 있는 것 같음)
 
