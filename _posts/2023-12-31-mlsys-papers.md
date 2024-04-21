@@ -593,6 +593,7 @@ Also updated in [https://github.com/byungsoo-oh/ml-systems-papers](https://githu
 - [NeurIPS'20] [FrugalML: How to use ML Prediction APIs more accurately and cheaply](https://proceedings.neurips.cc/paper/2020/hash/789ba2ae4d335e8a2ad283a3f7effced-Abstract.html)
 
 ## 7. ML for Systems
+- [arxiv'24] [LLMTune: Accelerate Database Knob Tuning with Large Language Models](https://arxiv.org/abs/2404.11581)
 - [arxiv'24] [Large Language Model Adaptation for Networking](https://arxiv.org/abs/2402.02338)
 - [arxiv'24] [LLM-Enhanced Data Management](https://arxiv.org/abs/2402.02643)
 - [arxiv'24] [MPIrigen: MPI Code Generation through Domain-Specific Language Models](https://arxiv.org/abs/2402.09126)
