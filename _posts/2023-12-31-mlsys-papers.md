@@ -184,6 +184,7 @@ Also updated in [https://github.com/byungsoo-oh/ml-systems-papers](https://githu
 - [OSDI'18] Gandiva: Introspective Cluster Scheduling for Deep Learning
 
 ### 2.3 GPU sharing
+- [ASPLOS'24] [RAP: Resource-aware Automated GPU Sharing for Multi-GPU Recommendation Model Training and Input Preprocessing](https://dl.acm.org/doi/abs/10.1145/3620665.3640406)
 - [EuroSys'24 (to appear)] Orion: Interference-aware, Fine-grained GPU Sharing for ML Applications
 - [ATC'23] [Beware of Fragmentation: Scheduling GPU-Sharing Workloads with Fragmentation Gradient Descent](https://www.usenix.org/conference/atc23/presentation/weng)
 - [NSDI'23] [Transparent GPU Sharing in Container Clouds for Deep Learning Workloads](https://www.usenix.org/conference/nsdi23/presentation/wu)
